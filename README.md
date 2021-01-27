@@ -1,5 +1,5 @@
 # SAOExtractor
-MATLAB Function to read SAO files (format 4.3) that contains ionosonde parameters.
+MATLAB Function to read SAO files (format 4.3) that contain ionosonde parameters.
 
 USAGE:
 
